@@ -16,5 +16,5 @@ https://amarlabs.netlify.app
 - JavaScript
 
 ## 📬 Connect
-- LinkedIn: https://www.linkedin.com/in/YOUR_USERNAME
-- Instagram: https://www.instagram.com/YOUR_USERNAME
+- LinkedIn: https://www.linkedin.com/in/amarjit-singh-662023249/
+- Instagram: https://www.instagram.com/amar.labs/
